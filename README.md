@@ -22,7 +22,7 @@ You can also look at the _Solutions_ section if you get stuck.
 
 ### Task 1
 You will first need to _clone_ this repository to get your local copy to get started.
-Use `git clone git@github.com:holmgr/gw-cookbook.git` to get a local copy.
+Use `git clone https://github.com/holmgr/gw-cookbook.git` to get a local copy.
 
 Take a look in the `gw-cookbook` folder it created, can you see the recipes from GW and the `.git` hidden folder?
 
